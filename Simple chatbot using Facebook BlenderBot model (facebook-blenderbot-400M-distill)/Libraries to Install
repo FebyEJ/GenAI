@@ -1,0 +1,4 @@
+# Prerequisites
+# Install the following libraries before executing the .py file
+
+pip install transformers torch sentencepiece
