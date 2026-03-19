@@ -1,5 +1,9 @@
 As one of my initial experiments in GenAI, I created a simple chatbot using Facebook BlenderBot model (facebook-blenderbot-400M-distill) from Hugging Face. 
 
+**Note**: Install the following libraries before executing the .py file:
+
+  <code style="color : blue">_pip install transformers torch sentencepiece_</code>
+
 ## Output
 This is a simple conversation I had with the chatbot. But the chats don't make sense!
 ![Chatbot_output](https://github.com/user-attachments/assets/c78def36-689d-4206-acc9-ff3b5851eda8)
